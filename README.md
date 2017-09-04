@@ -3,7 +3,7 @@
 ## How to run locally
 1. `go get -v ./...`
 2. `go build .`
-3. `./pitc-go-challenge-1-solution`
+3. `./pitc-go-solution-1`
 
 Oneliner:
 `go get -v ./... && go build . && ./$(basename $(pwd))`
